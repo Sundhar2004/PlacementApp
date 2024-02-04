@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232771652629",
+    "project_id": "my-interview-435aa",
+    "storage_bucket": "my-interview-435aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232771652629:android:31b1890fb8800e8ee6d21c",
+        "android_client_info": {
+          "package_name": "multialert.android.myinterview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5HZuJQuCNeLL1CrdbliM38wWB6k5vUW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
